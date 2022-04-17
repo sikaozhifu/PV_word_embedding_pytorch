@@ -1,0 +1,2 @@
+# PV_word_embedding_pytorch
+多模态特征融合与词嵌入驱动的 三维模型分类检索方法
